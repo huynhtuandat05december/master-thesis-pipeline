@@ -1,0 +1,15 @@
+nltk
+multilspy
+transformers>=4.37.0
+torch
+accelerate
+sentencepiece
+jsonlines
+tree_sitter==0.20.4
+tree_sitter_python
+huggingface_hub
+pandas
+fsspec
+datasets==2.18.0
+tree_sitter_languages==1.10.2
+argparse

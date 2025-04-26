@@ -1,0 +1,9 @@
+ReccEval/*
+dataset/*
+result/*
+.DS_Store
+.vscode
+.cursor
+.cursorrules
+
+__pycache__
